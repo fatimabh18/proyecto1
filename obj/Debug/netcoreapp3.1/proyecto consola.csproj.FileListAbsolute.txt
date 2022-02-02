@@ -1,0 +1,14 @@
+C:\proyectos\proyecto consola\bin\Debug\netcoreapp3.1\proyecto consola.exe
+C:\proyectos\proyecto consola\bin\Debug\netcoreapp3.1\proyecto consola.deps.json
+C:\proyectos\proyecto consola\bin\Debug\netcoreapp3.1\proyecto consola.runtimeconfig.json
+C:\proyectos\proyecto consola\bin\Debug\netcoreapp3.1\proyecto consola.runtimeconfig.dev.json
+C:\proyectos\proyecto consola\bin\Debug\netcoreapp3.1\proyecto consola.dll
+C:\proyectos\proyecto consola\bin\Debug\netcoreapp3.1\proyecto consola.pdb
+C:\proyectos\proyecto consola\obj\Debug\netcoreapp3.1\proyecto consola.AssemblyInfoInputs.cache
+C:\proyectos\proyecto consola\obj\Debug\netcoreapp3.1\proyecto consola.AssemblyInfo.cs
+C:\proyectos\proyecto consola\obj\Debug\netcoreapp3.1\proyecto consola.csproj.CoreCompileInputs.cache
+C:\proyectos\proyecto consola\obj\Debug\netcoreapp3.1\proyecto consola.dll
+C:\proyectos\proyecto consola\obj\Debug\netcoreapp3.1\proyecto consola.pdb
+C:\proyectos\proyecto consola\obj\Debug\netcoreapp3.1\proyecto consola.genruntimeconfig.cache
+C:\proyectos\proyecto consola\obj\Debug\netcoreapp3.1\proyecto consola.csproj.AssemblyReference.cache
+C:\proyectos\proyecto consola\obj\Debug\netcoreapp3.1\proyecto consola.GeneratedMSBuildEditorConfig.editorconfig
