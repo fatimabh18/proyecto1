@@ -4,25 +4,16 @@ namespace proyecto_consola
 {
     class Program
     {
-        static void Main(string[] args) // método principal
+         static void Main(string[] args) // método principal
         {
-           string mensaje2 ="";
-           Console.WriteLine("Introduzca un texto");
-           mensaje2= Console.ReadLine();
-           string mensajedesalida ="";
-           Console.WriteLine("Introduzca un texto");
-           mensajedesalida = Console.ReadLine();
            
-           bool resultado = mensaje2.Equals(mensajedesalida);
-           Console.WriteLine(resultado);
-           Console.ReadLine();
-           
-           
-         
-           
-           
-        
-       }
+           MiPrimeraClase objetoMiPrimeraClase = new MiPrimeraClase(); // instanciar la clase, se le asigna un valor
+           objetoMiPrimeraClase.MyProperty = "Hola Mundo";
+           objetoMiPrimeraClase.Ejecutar();  
+
+           Console.WriteLine("Escribe desde Program" + objetoMiPrimeraClase.MensajeDeEntrada);
+        }
 
     }
+   
 }

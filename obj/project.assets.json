@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyectos\\proyecto consola\\proyecto consola.csproj",
+      "projectUniqueName": "C:\\proyectos\\proyecto1\\proyecto consola.csproj",
       "projectName": "proyecto consola",
-      "projectPath": "C:\\proyectos\\proyecto consola\\proyecto consola.csproj",
+      "projectPath": "C:\\proyectos\\proyecto1\\proyecto consola.csproj",
       "packagesPath": "C:\\Users\\Educamosclm\\.nuget\\packages\\",
-      "outputPath": "C:\\proyectos\\proyecto consola\\obj\\",
+      "outputPath": "C:\\proyectos\\proyecto1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
