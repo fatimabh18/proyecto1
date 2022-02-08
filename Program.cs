@@ -12,6 +12,17 @@ namespace proyecto_consola
            objetoMiPrimeraClase.Ejecutar();  
 
            Console.WriteLine("Escribe desde Program" + objetoMiPrimeraClase.MensajeDeEntrada);
+           
+
+           MiSegundaClase objetoMiSegundaClase = new MiSegundaClase();
+           Console.WriteLine("Escriba un número");
+           objetoMiSegundaClase.NumeroEntrada = Int32.Parse(Console.ReadLine());
+           objetoMiSegundaClase.Incrementar();
+           objetoMiSegundaClase.IncrementarCinco();
+           objetoMiSegundaClase.PitnarLetras();
+           objetoMiSegundaClase.Mensaje = "El resultado es ";
+           objetoMiSegundaClase.Escribir();
+           
         }
 
     }
