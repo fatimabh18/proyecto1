@@ -18,8 +18,7 @@ namespace proyecto_consola
            Console.WriteLine("Escriba un número");
            objetoMiSegundaClase.NumeroEntrada = Int32.Parse(Console.ReadLine());
            objetoMiSegundaClase.Incrementar();
-           objetoMiSegundaClase.IncrementarCinco();
-           objetoMiSegundaClase.PitnarLetras();
+           objetoMiSegundaClase.ParoImpar();
            objetoMiSegundaClase.Mensaje = "El resultado es ";
            objetoMiSegundaClase.Escribir();
            

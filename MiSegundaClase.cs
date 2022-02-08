@@ -11,42 +11,19 @@ public class MiSegundaClase
       
         NumeroEntrada = NumeroEntrada + 1; // o poner numeroentrada++
     }
-    public void IncrementarCinco() 
+    public void ParoImpar()
     {
-        
-        for (int incremento = 1; incremento < 5; incremento++)
+        if ((NumeroEntrada % 2 == 0))
         {
-            NumeroEntrada++;
-            Console.WriteLine(NumeroEntrada);
+            Console.WriteLine("Es un número par");
         }
-    }    
-    public void AlejarDelCero()
-    {
-        if (NumeroEntrada >= 0) // si es positivo lo incremento
+        else 
         {
-            NumeroEntrada++;
-        }
-        // dejar el 0 en el medio, si es 0 no hace nada
-        else if (NumeroEntrada < 0) // y si no lo decremento
-        {
-            NumeroEntrada--;
+            Console.WriteLine("Es un número impar");
         }
     }
-    public void PitnarLetras()
-    {
-        for(int i = 0; i < Mensaje.Length; i++)
-        {
-            Console.WriteLine(Mensaje[i]);
-        }
-        
-    }
-    
     public void Escribir()
     {
-        if (String.IsNullOrEmpty(Mensaje)) //si el mensaje está vacio se sale
-        {
-            return; 
-        }
         Console.WriteLine(Mensaje + NumeroEntrada.ToString());
         Mensaje = Console.ReadLine();
     }
