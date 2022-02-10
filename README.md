@@ -7,6 +7,12 @@
 * [Git] (https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones)
 * [Dotnet core] (https://dotnet.microsoft.com/en-us/download)
 
+### Curso online Microsoft
+
+##### Se trata de un _curso online_ en el cual te van explicando un lenguaje de programación, y a la vez puedes ir practicando lo que aprendes.
+
+[Pincha aquí](https://docs.microsoft.com/es-es/learn/paths/csharp-first-steps/)
+
 ### Enlace al proyecto
 [¡Visita nuestro poyecto!](http://ies-pnegras.centros.castillalamancha.es/)
 
