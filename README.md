@@ -10,4 +10,4 @@
 ### Enlace al proyecto
 [¡Visita nuestro poyecto!](http://ies-pnegras.centros.castillalamancha.es/)
 
-!(https://emtstatic.com/2017/10/servilleta.png)
+![](https://emtstatic.com/2017/10/servilleta.png)
